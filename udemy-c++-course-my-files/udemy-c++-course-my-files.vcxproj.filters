@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="udemy-c++-course-my-files.cpp">
+    <ClCompile Include="23-first-program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23-1-program-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
