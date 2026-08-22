@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="23-1-program-2.cpp" />
     <ClCompile Include="23-first-program.cpp" />
+    <ClCompile Include="31-roots-of-quadratic-eqn.cpp" />
+    <ClCompile Include="42-enum-type-def.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,11 @@
     <ClCompile Include="23-1-program-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="31-roots-of-quadratic-eqn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="42-enum-type-def.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

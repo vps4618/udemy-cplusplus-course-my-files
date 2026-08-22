@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main23_1() {
 	// name with one word
 	/*string str;
 
